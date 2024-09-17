@@ -1,4 +1,4 @@
-import Content from './Content'
+import Content from '../Content/Content'
 
 const App = () => {
   const course = 'Half Stack application development'
