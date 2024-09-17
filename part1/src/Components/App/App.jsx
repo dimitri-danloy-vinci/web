@@ -1,4 +1,6 @@
 import Content from 'components/Content/Content';
+import './App.css';
+
 const App = () => {
   const course = 'Half Stack application development'
 
